@@ -1,0 +1,109 @@
+body{
+    padding: 50px 50px;
+    color: rgb(255, 255, 255);
+ 
+  }
+  #container {
+    margin-top: 120px;
+    margin-bottom: 120px;
+    display: flex;
+    justify-content: center;
+}
+img {
+  padding: 35px 0 0 1px;
+}
+.card-title{
+  padding: 10px 1px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  font-family: "Big Shoulders Display", sans-serif;
+  margin: 10px;
+  font-size: 2.0rem;
+  }
+  .card-text{
+    padding-left: 10px;
+    margin-bottom: 105px;
+    color: #ffffff;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 0.90rem;
+    line-height: 1.4;
+
+  }
+  .card-1{
+  padding-left: 35px;
+  padding-right: 20px;
+  width: 200px;
+ height: 430px;
+  background-color: hsl(31, 77%, 52%);
+  font-size: 0.95em;
+  border-radius: 5px 0 0 5px;
+
+  }
+  .card-2{
+    padding-left: 35px;
+    padding-right: 20px;
+  width: 200px;
+ height: 430px;
+  background-color: hsl(184, 100%, 22%);
+  font-size: 0.95em;
+    
+  }
+  .card-3{
+    padding-left: 35px;
+    padding-right: 20px;
+  width: 200px;
+  height: 430px;
+  background-color:  hsl(179, 100%, 13%);
+  font-size: 0.95em;
+  border-radius: 0 5px 5px 0;
+    
+  }
+  .button-1 {
+    background-color:#ffffff;
+    color:rgb(226, 133, 37);
+    border:none;
+    border:none;
+    border-radius: 30px;
+    padding: 12px 30px;
+    Text-decoration:none;
+    font-size: 0.80rem;
+    font-family: 'Lexend Deca', sans-serif;
+  }
+  .button-2 {
+    background-color:#ffffff;
+    color:rgb(1, 105, 114);
+    border:none;
+    border-radius: 30px;
+    padding: 12px 30px;
+    Text-decoration:none;
+    font-size: 0.80rem;
+    font-family: 'Lexend Deca', sans-serif;
+  }
+  .button-3 {
+    background-color:#ffffff;
+    color:rgb(0, 64, 63);
+    border:none;
+    border-radius: 30px;
+    padding: 12px 30px;
+    Text-decoration:none;
+    font-size: 0.80rem;
+    font-family: 'Lexend Deca', sans-serif;
+    
+  }
+  .button-1:hover{
+    border: 1px solid ;
+    background-color: rgb(226, 133, 37);
+    color:rgb(0, 0, 0);
+  }
+  
+  .button-2:hover{
+    border: 1px solid ;
+    background-color: rgb(1, 105, 114);
+    color:rgb(0, 0, 0);
+  }
+  
+  .button-3:hover{
+    border: 1px solid ;
+    background-color: rgb(0, 64, 63);
+    color:rgb(0, 0, 0);
+  }
